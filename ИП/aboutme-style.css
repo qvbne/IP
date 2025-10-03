@@ -1,0 +1,16 @@
+body {
+font-family: "Trebuchet MS", "Verdana", sans-seri;
+background-color: #595547; width: 500pt;}
+h1, h2{
+color: #9FC2F8;}
+
+ h1{font-size: 40pt;}
+ strong{color: #FFF86B;}
+
+ a{color: #FF4F;}
+
+
+a, a:visited {text-decoration: none;}
+a:hover {text-decoration: underline;}
+
+p:first-letter{font-weight: bold; font-size: 150%;} 
